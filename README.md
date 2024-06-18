@@ -11,4 +11,6 @@ pyautogui
 windows 10-11
 roblox
 ```
-[<img src="https://img.shields.io/badge/MIT-LICENSE-red">]([https://www.python.org/](https://github.com/yinyangbalance/ForgedBlade/raw/main/LICENSE))
+
+              [<img src="https://img.shields.io/badge/MIT-LICENSE-red">](https://github.com/yinyangbalance/ForgedBlade/raw/main/LICENSE)
+
