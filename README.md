@@ -8,6 +8,8 @@ the script runs in [<img src="https://img.shields.io/badge/Python-version_3.12.0
 ```
 python 3.11 or higher
 pyautogui
+numpy
+cv2
 windows 10-11
 roblox
 ```
