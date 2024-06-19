@@ -1,18 +1,11 @@
 # ForgedBlade
+Modified version of BLOXSTRAP
 
-ForgedBlade is a tool designed for the Roblox game: Blade Ball. Please use this tool wisely as it is currently in beta mode.
+## Also credits to pizzaboxer for [![Bloxstrap](https://img.shields.io/badge/Bloxstrap-Official-purple?style=for-the-badge&logo=RobloxStudio)](https://github.com/pizzaboxer/bloxstrap)
 
-the script runs in [<img src="https://img.shields.io/badge/Python-version_3.12.0-yellow">](https://www.python.org/) or lower
-
-#Dependencies:
-```
-python 3.11 or higher
-pyautogui
-numpy
-cv2
-windows 10-11
-roblox
-```
-
-[<img src="https://img.shields.io/badge/MIT-LICENSE-red">](https://github.com/yinyangbalance/ForgedBlade/raw/main/LICENSE)
-
+[![MIT License](https://img.shields.io/badge/MIT-LICENSE-red?style=flat)](https://github.com/yinyangbalance/ForgedBlade/raw/main/LICENSE) 
+#Requirements:
+- ![Windows](https://img.shields.io/badge/Windows-10-skyblue?style=for-the-badge&logo=windows10&spacing=2)
+- ![Windows11](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows11)
+- ![Roblox](https://img.shields.io/badge/Roblox-lightgrey?style=for-the-badge&logo=roblox)
+- ![net](https://img.shields.io/badge/.Net-purple?style=for-the-badge&logo=.net)
